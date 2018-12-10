@@ -28,4 +28,6 @@ The Diary App was designed with WindowBuilder’s Design Tool. It starts with a 
 
 Additional screenshots of the Diary GUI are included in a separate file named "Screenshots".
 
-# Credits: Bianca Iacoviello bianca.iacoviello@student.laurea.fi or biancaiacoviello@gmail.com
+# Credits: 
+
+Bianca Iacoviello bianca.iacoviello@student.laurea.fi or biancaiacoviello@gmail.com
